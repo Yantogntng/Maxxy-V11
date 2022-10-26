@@ -2912,7 +2912,7 @@ let alfamart = `6285380166282@s.whatsapp.net`
 ╰──❍
 
 ╭──❍「 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 」❍
-├ *Nama Bot* : ${pushname}
+├ *ReiBot* : ${pushname}
 ├ *Powered* : @${ini_mark.split('@')[0]}
 ├ *Owner* : @${ownernya.split('@')[0]}
 ├ *Mode* : ${naze.public ? 'Public' : `Self`}
@@ -2945,7 +2945,7 @@ let alfamart = `6285380166282@s.whatsapp.net`
 ╰──❍
 
 ╭──❍「 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 」❍
-├ *Nama Bot* : ${pushname}
+├ *ReiBot* : ${pushname}
 ├ *Mode* : ${naze.public ? 'Public' : `Self`}
 ├ *Prefix* :「 MULTI-PREFIX 」
 ├ *Total Hit* : ${jumlahcmd}
